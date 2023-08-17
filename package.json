@@ -15,15 +15,14 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "http://libet06.github.io/pizza-website-react",
+  "homepage": "https://adorable-rugelach-31d105.netlify.app/",
 
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build"
   },
   "eslintConfig": {
     "extends": [
