@@ -15,8 +15,6 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "https://adorable-rugelach-31d105.netlify.app/",
-
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
